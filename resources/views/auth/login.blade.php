@@ -39,7 +39,7 @@
                                             Aplikasi
                                         </div>
                                         <div style="font-size: 16px; color: #757575;">
-                                            SMK Al - Ittihad - Cianjur
+                                           Tugas Rijky Sallaffudin
                                         </div>
                                     </div>
                                 </div>

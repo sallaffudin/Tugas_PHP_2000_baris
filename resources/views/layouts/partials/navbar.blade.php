@@ -5,11 +5,10 @@
       {{-- Navbar Brand --}}
       <a class="navbar-brand" href="/">
         <div class="brand-container">
-          <img src="{{ url('img/logo.png') }}" class="brand" alt="AL Ittihad" />
         </div>
         <div class="brand-caption">
-          <p class="title">Aplikasi Inventaris</p>
-          <p class="caption">SMK Al - Ittihad - Cianjur</p>
+          <p class="title">Aplikasi CRUD</p>
+          <p class="caption">Tugas Rijky Sallaffudin</p>
         </div>
       </a>
 

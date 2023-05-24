@@ -4,7 +4,7 @@
       <div class="modal-header p-2 align-items-start">
         <div class="d-flex flex-column justify-content-center w-100 align-items-center">
           <img src="{{ url('img/logo.png') }}" width="50px" alt="AL Ittihad" class="" />
-          <h6>Pondok Pesantren Al-Ittihad</h6>
+          <h6>Tugas Rijky Sallafudin</h6>
           <p class="caption">Karang Tengah Cianjur</p>
           <h6 class="mt-3">MASUK UNTUK MELANJUTKAN</h6>
         </div>

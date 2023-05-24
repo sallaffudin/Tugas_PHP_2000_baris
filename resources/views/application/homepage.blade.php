@@ -90,19 +90,19 @@
               <input type="hidden" name="id" id="input-id-asset">
               <div class="form-group mb-2">
                 <label for="nama-asset">Nama Aset</label>
-                <input type="text" class="form-control" id="input-nama-asset" placeholder="Masukan Nama Aset" name="nama">
+                <input type="text" class="form-control" id="input-nama-asset" placeholder="Masukan Nama Aset" name="nama" required>
               </div>
               <div class="form-group mb-2">
                 <label for="jenis-asset">Jenis Aset</label>
-                <input type="text" class="form-control" id="input-jenis-asset" placeholder="Masukan Jenis Aset" name="jenis">
+                <input type="text" class="form-control" id="input-jenis-asset" placeholder="Masukan Jenis Aset" name="jenis" required>
               </div>
               <div class="form-group mb-2">
                 <label for="harga-asset">Harga Aset</label>
-                <input type="text" class="form-control" id="input-harga-asset" placeholder="Masukan Harga Aset" name="harga">
+                <input type="text" class="form-control" id="input-harga-asset" placeholder="Masukan Harga Aset" name="harga" required>
               </div>
               <div class="form-group mb-2">
                 <label for="nama-asset">Status</label>
-                <select class="form-control" id="input-status-asset" name="status">
+                <select class="form-control" id="input-status-asset" name="status" required >
                   <option value="aktif">Aktif</option>
                   <option value="tidak aktif">Tidak Aktif</option>
                 </select>
